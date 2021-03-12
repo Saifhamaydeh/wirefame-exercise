@@ -1,0 +1,51 @@
+header {
+   
+    padding: 80px;
+     
+    height: 40px;
+    background-color:rgb(65, 60, 60);
+  }
+
+  ul{
+      padding-left: 150px;
+    height: 150px;
+    padding-bottom: 500px;
+  }
+   nav ul li{
+       display: inline-block;
+    list-style-type:none;
+      color: red;
+     
+      background-color: yellow;
+      margin-left: 150px;
+      
+  }
+  main img{
+      margin: 30px;
+      padding-left: 150px;
+  }
+  section{
+      margin: 2px;
+      padding-left: 120px;
+  }
+  section img{
+
+      padding-left: 30px;
+  }
+  article{
+      /* padding-left: 10px; */
+     
+  
+      padding: 10px;
+     
+  }
+  article img{
+      float: left;
+  }
+  footer{
+    padding: 80px;
+     
+    height: 40px;
+    background-color:rgb(65, 60, 60);
+    margin-top: 80px;
+  }
