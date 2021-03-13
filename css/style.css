@@ -11,18 +11,22 @@ header {
     height: 150px;
     padding-bottom: 500px;
   }
-   nav ul li{
+    ul li{
        display: inline-block;
     list-style-type:none;
       color: red;
-     
       background-color: yellow;
       margin-left: 150px;
+      margin-top:0px;
       
+  }
+  .ax{
+     float: left;
   }
   main img{
       margin: 30px;
       padding-left: 150px;
+      
   }
   section{
       margin: 2px;
@@ -48,4 +52,11 @@ header {
     height: 40px;
     background-color:rgb(65, 60, 60);
     margin-top: 80px;
+  }
+  .ac{
+      margin-left: 0px;
+      
+  }
+  .ad{
+    margin-left: 0px;
   }
